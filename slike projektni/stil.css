@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: purple;
+	font-family: Constantia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	line-height: 20px;
+	width: 700px;
+	background-color: pink;
+	padding: 25px;
+}
+.paragraf_2 {color:purple; background-color: rgba(200, 100, 255, 0.2)}
+.novi_blok {
+	background-color: rgba(250, 125, 240, 0.9);
+	padding: 22px;
+	margin: 22px;
+	width: 14%;
+}
+h1, h2 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: darkorange;
+}
+
+span {color: rgb(200, 100, 175);}
+.pozadina{
+	background-image: url("slike projektni/pozadina.jpg");
+	background-color: darkcyan;
+}
+.drugapozadina {
+	background-color: lightblue;
+}
+a:link {
+	color: magenta;
+	background-color: pink;
+	padding: 7px;
+	line-height: 50px;
+	border: 0px solid #000000;
+}
+a:hover{
+	background-color: magenta;
+}
+img{
+	height: 200px; 
+}
